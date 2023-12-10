@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "johnny-bravo.jpeg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
